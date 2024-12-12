@@ -1,13 +1,14 @@
+New requirement and process:
+
 In Real-time Report Creation Process [high level]
+
 a) Business understanding [BSD]
 b) Functional understanding [FSD]
 c) Data understanding
 d) Technical Elements and Technical Design based on the Power BI components and concepts knowledge
 e) Report creation based on TDD
 f) Report Test
-
-
-g) Move to cloud / server
+g) Move to cloud / server (Power BI)
 h) Refresh settings [gateway and others working well]
 i) Report Testing
 j) Deployment [move to Dev->Test->Prod]
